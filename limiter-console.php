@@ -13,7 +13,7 @@
  * @author   piqus <ovirendo@gmail.com>
  * @license  MIT http://opensource.org/licenses/MIT
  * @version  0.2
- * @link     https://github.com/piqus/bfp4f-limiter
+ * @link     https://github.com/Autokickoui/Kick
  */
 
 require_once __DIR__ . '/limiter-config.php';
